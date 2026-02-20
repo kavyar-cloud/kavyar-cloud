@@ -22,7 +22,7 @@ Features:
 - Job posting & search
 - MVC architecture
 
-### 🔹 Sign Learning Platform
+### 🔹 Sign Learning Application
 Web based interative application for deaf and dumb people using PHP.
 Features:
 - User and Doctor Authentication

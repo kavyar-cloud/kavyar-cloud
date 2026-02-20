@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kavya 👋
 
-<!--
-**kavyar-cloud/kavyar-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend & Full Stack Developer passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- Hibernate
+- REST APIs
+- MySQL / PostgreSQL
+- Maven
+- React
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 🔹 NextHire – Job Portal
+Full-stack web application built using Java Servlets, JSP, Hibernate, and PostgreSQL.
+Features:
+- Authentication
+- Role-based access
+- Job posting & search
+- MVC architecture
+
+### 🔹 Sign Learning Platform
+Web-based system designed for deaf and non-verbal users.
+
+### 🔹 Doctor Booking System
+Automated appointment scheduling system.
+
+---
+
+📫 Reach me at: kavyar.1603@gmail.com

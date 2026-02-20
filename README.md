@@ -45,6 +45,6 @@ Features:
 
 ## 📊 GitHub Stats
 
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyar-cloud&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyar-cloud&show_icons=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyar-cloud&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyar-cloud&layout=compact&cache_seconds=86400)

@@ -1,4 +1,4 @@
-# Hi, I'm Kavya 👋
+# Hi, I'm Kavya R 👋
 
 Java Backend & Full Stack Developer passionate about building scalable web applications.
 
@@ -40,11 +40,3 @@ Features:
 ---
 
 📫 Reach me at: kavyar.1603@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyar-cloud&show_icons=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyar-cloud&layout=compact&cache_seconds=86400)

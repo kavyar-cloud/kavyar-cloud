@@ -41,8 +41,10 @@ Features:
 
 📫 Reach me at: kavyar.1603@gmail.com
 
+---
+
 ## 📊 GitHub Stats
 
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyar-cloud&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyar-cloud&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyar-cloud&layout=compact&theme=default)

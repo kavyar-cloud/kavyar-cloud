@@ -23,10 +23,19 @@ Features:
 - MVC architecture
 
 ### 🔹 Sign Learning Platform
-Web-based system designed for deaf and non-verbal users.
+Web based interative application for deaf and dumb people using PHP.
+Features:
+- Authentication
+- Learn sign language using visuals
+- Book doctor appointments
+- Role- based access
 
-### 🔹 Doctor Booking System
-Automated appointment scheduling system.
+### 🔹 Movie Explorer
+A React-based movie search application built using Vite and React Router.
+Features:
+- Allows to search movies & view details
+- Manage favourites
+- Used API integration with movie database
 
 ---
 

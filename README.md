@@ -17,25 +17,25 @@ Java Backend & Full Stack Developer passionate about building scalable web appli
 ### 🔹 NextHire – Job Portal
 Full-stack web application built using Java Servlets, JSP, Hibernate, and PostgreSQL.
 Features:
-- Authentication
-- Role-based access
+- User Authentication and Authentication
+- Role-based access (Recruiter, Candidate)
 - Job posting & search
 - MVC architecture
 
 ### 🔹 Sign Learning Platform
 Web based interative application for deaf and dumb people using PHP.
 Features:
-- Authentication
-- Learn sign language using visuals
-- Book doctor appointments
-- Role- based access
+- User and Doctor Authentication
+- Visual based sign learning modules
+- Doctor Appointment Booking 
+- Role-based access control (Admin, User, Consultant, Medical-service provider) 
 
 ### 🔹 Movie Explorer
 A React-based movie search application built using Vite and React Router.
 Features:
-- Allows to search movies & view details
-- Manage favourites
-- Used API integration with movie database
+- Search movies & View details
+- Manage favorites
+- API integration with movie database
 
 ---
 
